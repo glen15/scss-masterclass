@@ -1,6 +1,9 @@
+@import "_variables";
+@import "_mixins";
+
 body {
-  background: peru;
+  background: $bg;
   a {
-    color: blue;
+    color: black;
   }
 }
